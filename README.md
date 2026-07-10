@@ -101,7 +101,7 @@ household-power-consumption-forecasting/
 | Plot | Description |
 |---|---|
 | `### 1. Daily Average Power Consumption
-![Daily Average Power](images/Plot1_Daily_avg_power.png)` | Daily average Global Active Power over the full 2-year period |
+![Daily Average Power](household-power-consumption-forecasting//images/Plot1_Daily_avg_power.png)` | Daily average Global Active Power over the full 2-year period |
 | `Plot2_monthly_avg_power_consumption` | Monthly average consumption, highlighting seasonal peaks |
 | `Plot3_avg_power_consumption_dayperweek` | Weekday vs weekend consumption comparison |
 | `Plot4_seasonal_decomposition` | Trend, seasonal, and residual decomposition (weekly period) |
