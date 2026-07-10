@@ -100,17 +100,17 @@ household-power-consumption-forecasting/
 
 | Plot | Description |
 |---|---|
-| '![Daily Average Power](household-power-consumption-forecasting//images/Plot1_Daily_avg_power.png)` | Daily average Global Active Power over the full 2-year period |
-| `Plot2_monthly_avg_power_consumption` | Monthly average consumption, highlighting seasonal peaks |
-| `Plot3_avg_power_consumption_dayperweek` | Weekday vs weekend consumption comparison |
-| `Plot4_seasonal_decomposition` | Trend, seasonal, and residual decomposition (weekly period) |
-| `Plot5_avg_energy_submeetingzone` | Energy share across kitchen, laundry, and water heater/AC zones |
-| `Plot6_correlation` | Correlation heatmap across daily metrics |
-| `Plot7_distribution` | Distribution of daily Global Active Power |
-| `Plot8_model_comparison` | MAE / RMSE / R² comparison across all four models |
-| `Plot9_actual_predicted` | Actual vs predicted consumption on the test set (best model) |
-| `Plot10_residuals_distri_predicted` | Residual scatter and distribution for error analysis |
-| `Plot11_feature_coefficients` | Feature importance/coefficients driving the forecast |
+| ![Daily Average Power](household-power-consumption-forecasting/images/Plot1_Daily_avg_power.png)` | Daily average Global Active Power over the full 2-year period |
+| ![Monthly Average Power](household-power-consumption-forecasting/images/Plot2_monthly_avg_power_consumption.png)` | Monthly average consumption, highlighting seasonal peaks |
+| ![Day of Week Consumption](household-power-consumption-forecasting/images/Plot3_avg_power_consumption_dayperweek.png)` | Weekday vs weekend consumption comparison |
+| ![Seasonal Decomposition](household-power-consumption-forecasting/images/Plot4_seasonal_decomposition.png)` | Trend, seasonal, and residual decomposition (weekly period) |
+| ![Energy by Zone](household-power-consumption-forecasting/images/Plot5_avg_energy_submeetingzone.png)` | Energy share across kitchen, laundry, and water heater/AC zones |
+| ![Correlation Matrix](household-power-consumption-forecasting/images/Plot6_correlation.png)` | Correlation heatmap across daily metrics |
+| ![Distribution Plot](household-power-consumption-forecasting/images/Plot7_distribution.png)` | Distribution of daily Global Active Power |
+| ![Model Comparison](household-power-consumption-forecasting/images/Plot8_model_comparison.png)` | MAE / RMSE / R² comparison across all four models |
+| ![Actual vs Predicted](household-power-consumption-forecasting/images/Plot9_actual_predicted.png)` | Actual vs predicted consumption on the test set (best model) |
+| ![Residuals Distribution](household-power-consumption-forecasting/images/Plot10_residuals_distri_predicted.png)` | Residual scatter and distribution for error analysis |
+| ![Feature Coefficients](household-power-consumption-forecasting/images/Plot11_feature_coefficients.png)` | Feature importance/coefficients driving the forecast |
 
 ---
 
